@@ -94,9 +94,9 @@ function drawInterface(){
 
 function mousePressed() {
     if(mouseY <= windowHeight/2){
-        window.location.href = "/nosotros/index.html";
+        window.location.href = "https://santuarios.github.io/e-poem-nosotros-noche/nosotros/index.html";
     }else{
-        window.location.href = "/noche/index.html";
+        window.location.href = "https://santuarios.github.io/e-poem-nosotros-noche/noche/index.html";
     }
 
 }
