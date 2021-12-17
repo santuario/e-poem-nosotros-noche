@@ -1,8 +1,8 @@
 /*
- * para bessie
+ * para ana
  * la noche estrellada remix
  * @author santuario
- * @date 2017/02/04
+ * @date 2020/12/17
  */
 
 //scp -ra /path/to/local/storage user@remote.host:/path/to/copy
@@ -94,9 +94,9 @@ function drawInterface(){
 
 function mousePressed() {
     if(mouseY <= windowHeight/2){
-        window.location.href = "https://santuarios.github.io/e-poem-nosotros-noche/nosotros/index.html";
+        window.location.href = "https://santuario.github.io/e-poem-nosotros-noche/nosotros/index.html";
     }else{
-        window.location.href = "https://santuarios.github.io/e-poem-nosotros-noche/noche/index.html";
+        window.location.href = "https://santuario.github.io/e-poem-nosotros-noche/noche/index.html";
     }
 
 }

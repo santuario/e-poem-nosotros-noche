@@ -1,8 +1,8 @@
 /*
- * twisted lines
- *
- * @author aadebdeb
- * @date 2017/02/04
+ * para ana
+ * lineas que se encuentran
+ * @author santuario
+ * @date 2020/12/17
  */
 
 var colors;
